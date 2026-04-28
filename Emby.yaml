@@ -1,0 +1,209 @@
+payload:
+  # ===== 原 ForestSun 规则，保留 =====
+  - DOMAIN,plus.younoyes.com
+  - DOMAIN,emby.younoyes.com
+  - DOMAIN,line.xmsl.org
+  - DOMAIN,ciallo.party
+  - DOMAIN,mperformance.mebimmer.de
+  - DOMAIN,sport.mebimmer.de
+  - DOMAIN,lite.cn2gias.uk
+  - DOMAIN,emby1.69yun69.com
+  - DOMAIN,entry.zox.show
+  - DOMAIN,zoxfree.3767483.xyz
+  - DOMAIN,hka-emby.aliz.work
+  - DOMAIN,emby.bangumi.ca
+  - DOMAIN,public.shrekmedia.org
+  - DOMAIN,emos.lol
+  - DOMAIN,de.yixia.io
+  - DOMAIN,emby.kongcheng666.dpdns.org
+  - DOMAIN,gy.meowfly.de
+  - DOMAIN,emby.feiniu.lol
+  - DOMAIN,emby.nubebelle.cn
+  - DOMAIN,shouer.910427.xyz
+  - DOMAIN,xxxxx.xxxxx.com
+  - DOMAIN,emby.hohai.eu.org
+  - DOMAIN,emby.191920.xyz
+  - DOMAIN,playz.mjji.de
+  - DOMAIN,spcs.mebimmer.de
+  - DOMAIN,mpcs.mebimmer.de
+  - DOMAIN,nangua.de
+  - DOMAIN,wf.vban.xyz
+  - DOMAIN,v1.uhdnow.com
+  - DOMAIN,yin.wenjian.de
+  - DOMAIN,music.wenjian.de
+  - DOMAIN,empn.mom
+  - DOMAIN,emos.dolby.dpdns.org
+  - DOMAIN,emos.movier.ink
+  - DOMAIN,yxh20190608-my.sharepoint.com
+  - DOMAIN,speedtestdeemby.191920.xyz
+  - DOMAIN,speedtestemby.191920.xyz
+  - DOMAIN,link00.okemby.org
+  - DOMAIN,link01.okemby.org
+  - DOMAIN,yinhai.aiinyue.com
+  - DOMAIN,embygy.ichinosekotomi.com
+  - DOMAIN,gm.yezi.my
+  - DOMAIN,main.younopro.de
+  - DOMAIN,emby.violet.run
+  - DOMAIN,mi.miraiemby.com
+  - DOMAIN,emby.ichinosekotomi.com
+  - DOMAIN,wp.lyezi.cc
+  - DOMAIN,emby.wenjian.de
+  - DOMAIN,media.nijigem.by
+  - DOMAIN,hellohk.me
+  - DOMAIN,mi2.miraiemby.com
+  - DOMAIN,emby.dnscf.dpdns.org
+  - DOMAIN,ebs.digimon.ink
+  - DOMAIN,emby.yun
+  - DOMAIN,gy1.66990000.xyz
+  - DOMAIN,gy.emby.yun
+
+  - DOMAIN-SUFFIX,nubebelle.vip
+  - DOMAIN-SUFFIX,handoumedia.top
+  - DOMAIN-SUFFIX,emby.yun
+  - DOMAIN-SUFFIX,yuntv.de
+  - DOMAIN-SUFFIX,mobaiemby.site
+
+  - IP-CIDR,207.58.173.192/32,no-resolve
+
+  # ===== 你指定必须添加 =====
+  - DOMAIN,mambo-hachimi.biliblili.uk
+
+  # ===== 主流公益 / 公费 / 常见 Emby 服补充 =====
+
+  # ntRRR / Synn
+  - DOMAIN,stream.ntrrr.top
+  - DOMAIN,stream.synn.cc
+
+  # Feiyue / Singularity / 品云 / Netcup / 佛系 / 蓝海
+  - DOMAIN-SUFFIX,sfcj.org
+  - DOMAIN,singularity.deja-vu.beauty
+  - DOMAIN-SUFFIX,embyplus.club
+  - DOMAIN-SUFFIX,404.sb
+  - DOMAIN-SUFFIX,4545.cf
+  - DOMAIN-SUFFIX,blueseacdn.com
+
+  # 1111 / loseremby
+  - DOMAIN-SUFFIX,emby.ml
+  - DOMAIN-SUFFIX,loseremby.org
+
+  # Plex / Texon / 剧狗 / TreeDiagram / 餐厅
+  - DOMAIN-SUFFIX,plex.direct
+  - DOMAIN,plex.llon.net
+  - DOMAIN-SUFFIX,texon.fans
+  - DOMAIN-SUFFIX,ju.dog
+  - DOMAIN-SUFFIX,123456.al
+  - DOMAIN-SUFFIX,mius.uk
+
+  # 机场 / 公费常见 Emby
+  - DOMAIN-SUFFIX,emby.nexitally.com
+  - DOMAIN-SUFFIX,emby.immtel.com
+  - DOMAIN-SUFFIX,emby.cjpc.cc
+  - DOMAIN-SUFFIX,emby.cjpc.tv
+  - DOMAIN-SUFFIX,emby.cjpc.xyz
+  - DOMAIN-SUFFIX,emby.paoche.ooo
+  - DOMAIN-SUFFIX,emby.flowercloud.yt
+  - DOMAIN-SUFFIX,emby.maying.club
+  - DOMAIN-SUFFIX,emby.mdss.cloud
+  - DOMAIN-SUFFIX,emby.ytoo.li
+  - DOMAIN-SUFFIX,emby.prprcloud.com
+  - DOMAIN-SUFFIX,emby.nyancat.net
+  - DOMAIN-SUFFIX,emby.mcwy.me
+  - DOMAIN-SUFFIX,emby.neko.edu.rs
+  - DOMAIN-SUFFIX,emby.ok.edu.hk
+
+  # PlusMedia / Xeton / Jellyfin
+  - DOMAIN-SUFFIX,plusmedia.site
+  - DOMAIN-SUFFIX,emby.plusmedia.site
+  - DOMAIN-SUFFIX,emby-sg.plusmedia.site
+  - DOMAIN-SUFFIX,emby-cf.plusmedia.site
+  - DOMAIN-SUFFIX,emby.xeton.dev
+  - DOMAIN-SUFFIX,jellyfin.xeton.dev
+  - DOMAIN-SUFFIX,movie.xeton.dev
+  - DOMAIN-SUFFIX,servers.xeton.dev
+
+  # OtakuDrive
+  - DOMAIN,emby.otakudrive.life
+  - DOMAIN,emby2.otakudrive.life
+
+  # JMSOOO / 卷毛鼠
+  - DOMAIN-SUFFIX,jmsooo.com
+  - DOMAIN,agahk1.jmsooo.com
+  - DOMAIN,agasg1.jmsooo.com
+  - DOMAIN,agajp1.jmsooo.com
+  - DOMAIN,aws.jmsooo.com
+  - DOMAIN,ntt1.jmsooo.com
+  - DOMAIN,hinet.jmsooo.com
+  - DOMAIN,cf1.jmsooo.com
+  - DOMAIN,cf.jmsooo.com
+  - DOMAIN,hk.jmsooo.com
+  - DOMAIN,sg.jmsooo.com
+
+  # Odyssey
+  - DOMAIN-SUFFIX,odysseyplus.site
+  - DOMAIN,cf.odysseyplus.site
+  - DOMAIN,agahk.odysseyplus.site
+  - DOMAIN,agasg.odysseyplus.site
+  - DOMAIN,ru.odysseyplus.site
+
+  # Exflux / SoCloud
+  - DOMAIN,line.emby.men
+  - DOMAIN,emby.run
+
+  # 终点站
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN,pub1.emby.wtf
+  - DOMAIN,pub1cf.emby.wtf
+  - DOMAIN,pub1back.emby.wtf
+  - DOMAIN,pub2.emby.wtf
+  - DOMAIN,pub2cf.emby.wtf
+  - DOMAIN,pub2back.emby.wtf
+  - DOMAIN,pub3.emby.wtf
+  - DOMAIN,pub3cf.emby.wtf
+  - DOMAIN,pub3back.emby.wtf
+
+  # 熊猫
+  - DOMAIN-SUFFIX,embyclub.com
+  - DOMAIN,az-hk.embyclub.com
+  - DOMAIN,azsgp.embyclub.com
+
+  # 卡戎 / 大白
+  - DOMAIN,play.charontv.com
+  - DOMAIN,emby.p-p.men
+
+  # MisakaF / GfwEmby / Nebula
+  - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,gfwemby.org
+  - DOMAIN-SUFFIX,nebula-emby.com
+  - DOMAIN,direct.nebula-emby.com
+
+  # 狂热云 / hxd / Media 1 / McFun
+  - DOMAIN-SUFFIX,feverss.cloud
+  - DOMAIN-SUFFIX,nvidia.rip
+  - DOMAIN-SUFFIX,media-1.co.uk
+  - DOMAIN,sptv.ii00.cc
+  - DOMAIN,sgtv.ii00.cc
+  - DOMAIN,cn-music.mefun.vip
+
+  # 其他公开规则中常见项
+  - DOMAIN,emby.enjoyit.eu.org
+  - DOMAIN,emby.lcloud.wiki
+  - DOMAIN,notnetflix.cos.cat
+  - DOMAIN-SUFFIX,285286.xyz
+  - DOMAIN-SUFFIX,cristiamo.xyz
+  - DOMAIN-SUFFIX,emby.cristiamo.top
+  - DOMAIN-SUFFIX,embymv.tk
+  - DOMAIN-SUFFIX,embyplus.org
+  - DOMAIN-SUFFIX,embyserver.ga
+  - DOMAIN-SUFFIX,imetyou.top
+  - DOMAIN-SUFFIX,jellyfin.asia
+  - DOMAIN-SUFFIX,mickeycloud.com
+  - DOMAIN-SUFFIX,ohhhh.org
+  - DOMAIN-SUFFIX,peachmv.me
+  - DOMAIN-SUFFIX,pilipiliultra.com
+  - DOMAIN-SUFFIX,poloemby.xyz
+  - DOMAIN-SUFFIX,pololine.ml
+  - DOMAIN-SUFFIX,xmsl.org
+  - DOMAIN-SUFFIX,hongxingyunmovie.vip
+  - DOMAIN-SUFFIX,yunti.online
+  - DOMAIN,server2.cn2gias.uk
+  - DOMAIN,cc.ccemby.tk
